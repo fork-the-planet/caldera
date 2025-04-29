@@ -1,16 +1,18 @@
 # Activision Non-Commercial Use License Agreement
 
-Copyright © 2024 Activision Publishing, Inc.
+Copyright © 2024, 2025 Activision Publishing, Inc.
 
 This Non-Commercial Use License Agreement (“License”), between you, or your employer or other entity (if you are entering into this agreement on behalf of your employer or other entity) (“Licensee” or “You”) and Activision Publishing, Inc. (“Activision”) applies to your use of any computer program, algorithm, source code, object code, or software that is made available by Activision under this License along with any specifications, manuals, documentation, and other written information provided by Activision related thereto (collectively, the “Work”).
 
 ## Grant of Non-Commercial Use Copyright License
 
-Subject to the terms and conditions of this License, Activision hereby grants to Licensee a perpetual, worldwide, non-exclusive, no-charge, royalty-free, copyright license to use, edit, modify, and prepare derivative works using any part of the Work (“Derivative Works”), and to publicly display, publicly perform, and distribute such Derivative Works, all on a non-commercial research or educational basis only.
+Subject to the terms and conditions of this License, Activision hereby grants to Licensee a perpetual, worldwide, non-exclusive, no-charge, royalty-free, copyright license to use, edit, modify, and prepare derivative works using any part of the Work (“Derivative Works”), and to publicly display, publicly perform, and distribute such Derivative Works, all on a non-commercial basis only.
+
+The rights granted herein may be exercised by individuals and other legal entitles, including commercial and for-profit entities. Permitted uses of the Work include:  published papers, blog posts, presentations, benchmarking, and similar uses; and public release and distribution of applications using or based on the Work or Derivative Works. Any use or incorporation of the Work or Derivative Works in a commercially-distributed product or service shall require a commercial use license from Activision.
 
 ## Redistribution
 
-You may reproduce and distribute copies of the Derivative Works solely for non-commercial purposes, provided that You meet the following conditions: (i) You may not charge a fee for or otherwise commercially profit from the Derivative Works, (ii) You must provide recipients of the Derivative Works a copy of this License, and a copy of the “Notice” file included in the Work; (ii) You must cause any modified files to carry prominent notices stating that You changed the files; (iii) You must retain, in the source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and (iv) You may not attempt to reidentify any data contained in the Work.
+You may reproduce and distribute copies of the Work and/or Derivative Works solely for non-commercial purposes, provided that You meet the following conditions: (i) You may not charge a fee for or otherwise commercially profit from the Work or Derivative Works, (ii) You must provide recipients of the Work or Derivative Works a copy of this License, and a copy of the “Notice” file included in the Work; (ii) You must cause any modified files to carry prominent notices stating that You changed the files; (iii) You must retain, in the source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works, and (iv) You may not attempt to reidentify any data contained in the Work.
 
 ## Third Party Software
 
